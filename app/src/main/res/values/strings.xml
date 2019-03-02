@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Animal Info</string>
+    <string name="animal_type">Animal Type/Name:</string>
+    <string name="num_of_legs">Number of Legs:</string>
+    <string name="has_fur">Does it has Fur?</string>
+    <string name="other_info">Any Additional Information:</string>
+</resources>
